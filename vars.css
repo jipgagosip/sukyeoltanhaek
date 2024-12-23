@@ -1,0 +1,10 @@
+/* vars.css */
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Batang&family=Hahmlet:wght@100..900&family=Noto+Sans+KR:wght@100..900&family=Pinyon+Script&family=Song+Myung&display=swap");
+
+:root {
+  --font-gowun-batang: "Gowun Batang", serif;
+  --font-hahmlet: "Hahmlet", sans-serif;
+  --font-noto-sans-kr: "Noto Sans KR", sans-serif;
+  --font-pinyon-script: "Pinyon Script", cursive;
+  --font-song-myung: "Song Myung", serif;
+}
